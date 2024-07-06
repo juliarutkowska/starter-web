@@ -15,3 +15,7 @@ As stated obove.
 Sample website with plenty of files for demos.
 
 ## How To Contribute
+
+## Copyright
+
+2014 Git.Training.
