@@ -15,6 +15,7 @@ As stated obove.
 Sample website with plenty of files for demos.
 
 ## How To Contribute
+Please fork this repository and then issue pull request for review.
 
 ## Copyright
 
